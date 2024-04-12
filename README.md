@@ -38,16 +38,24 @@ Bienvenido al repositorio del curso intensivo de Programación Web Full Stack of
 - Ciclo de vida y enlace de componentes.
 - Hooks
 
-## Proyectos
+## Tecnologías y Herramientas
+- **Frontend:** HTML5, CSS3, JavaScript, React.js.
+- **Backend:** Node.js, Express.js.
+- **Base de Datos:** MySQL, Sequelize.
+- **Herramientas de Desarrollo:** Git, GitHub, Visual Studio Code.
+- **Otros:** APIs, Postman, autenticación, pruebas unitarias.
+
+## Proyectos realizados durante el cursado
 
 ### Proyecto Individual: "Mercado-Liebre"
 Una página estatica inspirada en "Mercado Libre". Implementa las habilidades y conocimientos adquiridos durante la primera parte del curso (temas dados en el módulo 3: HTML+CSS). 
 [Link del sitio en render](https://mercadoliebre-lucas.onrender.com/)
 
-### Proyecto Integrador: "DigitalPets"
-Un proyecto grupal que simula un ecommerce para la venta de productos para mascotas, funcionando como un PetShop online.
-[Link del repo](https://github.com/victoriasuarez/grupo_3_DigitalPets)
-
+### Proyecto Integrador: “DigitalPets”
+- *Descripción General:* DigitalPets es un proyecto grupal que simula una tienda electrónica para la venta de productos destinados al cuidado y bienestar de las mascotas, operando como un PetShop virtual.
+- *Objetivos y Prácticas:* El objetivo principal fue aplicar de manera integral los conocimientos adquiridos a lo largo del curso. Se enfatizó en el uso de buenas prácticas para cada una de las tecnologías implementadas y se mantuvo un flujo de trabajo estructurado mediante el uso de comandos de Git y Sequelize-CLI, lo cual permitió gestionar eficientemente las actualizaciones de las bases de datos a través de migraciones.
+- *Desarrollo Adicional:* Como parte del proyecto, se desarrolló un Dashboard interactivo utilizando React y Vite. Este Dashboard se integra con la API de productos y la API de usuarios de DigitalPets, proporcionando una interfaz de administración dinámica y funcional.
+- *Repositorio del Proyecto:* Para más detalles, visita el repositorio de [DigitalPets](https://github.com/victoriasuarez/grupo_3_DigitalPets).
 
 ## Modalidad de cursado semanal
 - 2 clases virtuales asincrónicas en Playground.
