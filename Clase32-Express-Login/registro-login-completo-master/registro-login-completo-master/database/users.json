@@ -1,0 +1,34 @@
+[
+ {
+  "id": 1,
+  "fullName": "Javi Herrera",
+  "email": "javi@dh.com",
+  "password": "$2a$10$kbHNepDXku1qKDytFK3RpuLtkW/dqMGDi4jXL7lNQUF8lm1HZ2.N.",
+  "country": "Colombia",
+  "avatar": "1609285636788_img.jpg"
+ },
+ {
+  "id": 2,
+  "fullName": "Lucas Garcia",
+  "email": "lucas.garcia2297@gmail.com",
+  "password": "$2a$10$AjHOkH6a81CkPFUBa21iuOSMwpIro/83Rz1Mh79xUN6ptEEgqFIYC",
+  "country": "Argentina",
+  "avatar": "1703273110011_img.jpg"
+ },
+ {
+  "id": 3,
+  "fullName": "Lucas Garcia",
+  "email": "asdfghj@hgd.vod",
+  "password": "$2a$10$hGbLMw9CgAuXdpTyHrtp2eeMCFJRrd26M3i8o1RPUmKAeG2It/3ES",
+  "country": "Argentina",
+  "avatar": "1703273581083_img.jpg"
+ },
+ {
+  "id": 4,
+  "fullName": "Lucas Garcia",
+  "email": "lucasg@gmail.com",
+  "password": "$2a$10$V71EeCE2AXPwqhlqb55xBufR20ZHUjwkgqZ1uR7I2clBtgawGkLzC",
+  "country": "Argentina",
+  "avatar": "1704837190564_img.png"
+ }
+]
