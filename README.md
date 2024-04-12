@@ -42,11 +42,11 @@ Bienvenido al repositorio del curso intensivo de Programación Web Full Stack of
 
 ### Proyecto Individual: "Mercado-Liebre"
 Una página estatica inspirada en "Mercado Libre". Implementa las habilidades y conocimientos adquiridos durante la primera parte del curso (temas dados en el módulo 3: HTML+CSS). 
-[link del sitio en render:](https://mercadoliebre-lucas.onrender.com/)
+[Link del sitio en render](https://mercadoliebre-lucas.onrender.com/)
 
 ### Proyecto Integrador: "DigitalPets"
 Un proyecto grupal que simula un ecommerce para la venta de productos para mascotas, funcionando como un PetShop online.
-[link del repo:](https://github.com/victoriasuarez/grupo_3_DigitalPets)
+[Link del repo](https://github.com/victoriasuarez/grupo_3_DigitalPets)
 
 
 ## Modalidad de cursado semanal
